@@ -1,7 +1,7 @@
 # ignore generated pdfs docs and images
 *.pdf
 *.eps
-*.png
+#*.png
 !/logos/*
 
 # ignore latex generated files
